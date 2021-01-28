@@ -21,13 +21,13 @@ const NavBar = () => {
         <StyledNav>
             <ul>
                 <li> 
-                    <Link to='/page-2'>page 2</Link>
-                </li>
-                <li> 
                     <Link to='/artist'>artist</Link>
                 </li>
                 <li> 
-                    <Link to='/page-2'>page 2</Link>
+                    <Link to='/artist'>Exhibitions</Link>
+                </li>
+                <li> 
+                    <Link to='/artist'>Contact</Link>
                 </li>
             </ul>
         </StyledNav>
